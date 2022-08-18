@@ -6,7 +6,7 @@ seu uso, vantagens, desvantagens, e melhor distinção entre as diferenças de a
 
 ## Por que usar Threads?
 Threads são uma forma de fazer com que a nossa aplicação execute tarefas de forma assíncrona, por exemplo, enquanto uma estrutura de repetição 
-é executadapodemos executar uma outra rotina.
+é executada podemos executar uma outra rotina.
 
 ## Multithreading e Multiprocessamento
 Multithreading e multiprocessamento são duas maneiras de alcançar multitarefa que é muito útil na execução de funções e código em
