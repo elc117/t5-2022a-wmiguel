@@ -2,7 +2,7 @@
 
 ## Motivação:
 Curiosidade sobre a utilização de threads despertada após realização dos exercícios propostos pela professora, objetivando aprender mais sobre 
-seu uso, vantagens, desvantagens, e melhor distinção entre as diferenças entre ambos.
+seu uso, vantagens, desvantagens, e melhor distinção entre as diferenças de ambos.
 
 ## Por que usar Threads?
 Threads são uma forma de fazer com que a nossa aplicação execute tarefas de forma assíncrona, por exemplo, enquanto uma estrutura de repetição 
