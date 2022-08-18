@@ -62,7 +62,7 @@ if __name__ == "__main__":
     # Cria lock (opcional)
     thread_lock = threading.Lock()
 
-    # Create thread
+    # Cria thread
     t1 = threading.Thread(target=task_sleep, args=(1, 1, thread_lock))
     t2 = threading.Thread(target=task_sleep, args=(1, 2, thread_lock))
     t3 = threading.Thread(target=task_sleep, args=(1, 3, thread_lock))
